@@ -18,8 +18,8 @@ jobs:
       - name: E2E On Chrome
         uses: cypress-io/github-action@v4
         env:
-          CYPRESS_email: sezertesting@gmail.com
-          CYPRESS_password: testautomation59
+          CYPRESS_email: ${{ secrets.AMAZON_EMAIL }}
+          CYPRESS_password: ${{ secrets.AMAZON_PASSWORD }}
         with:
           browser: chrome
           headed: true
