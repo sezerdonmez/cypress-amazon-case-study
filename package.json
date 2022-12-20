@@ -1,0 +1,27 @@
+{
+  "name": "1.0.0",
+  "version": "1.0.0",
+  "description": "E2E UI Test Automation with Cypress",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run:chrome": "cypress run --env email=sezertesting@gmail.com,password=testautomation59 --browser chrome --headed",
+    "cy:run:firefox": "cypress run --env email=sezertesting@gmail.com,password=testautomation59 --browser firefox --headed",
+    "cy:run:edge": "cypress run --env email=sezertesting@gmail.com,password=testautomation59 --browser edge --headed",
+    "cy:run:electron": "cypress run --env email=sezertesting@gmail.com,password=testautomation59 --browser electron --headed"
+  },
+  "keywords": [
+    "e2e",
+    "cypress",
+    "test-automation",
+    "amazon",
+    "e-commerce"
+  ],
+  "author": "Sezer Donmez",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^11.0.1",
+    "cypress-mochawesome-reporter": "^3.2.3",
+    "cypress-wait-until": "^1.7.2"
+  }
+}

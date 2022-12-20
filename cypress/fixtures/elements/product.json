@@ -1,0 +1,7 @@
+{
+  "productTitle": "#productTitle",
+  "addToListButton": "#wishListMainButton",
+  "addToListPopUp": "h4[class*='popover-header']",
+  "addToListPopUpProductName": "#huc-item-link span",
+  "viewYourListButton": "[href*='view_your_list']"
+}

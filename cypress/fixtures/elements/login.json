@@ -1,0 +1,7 @@
+{
+  "signInText": "h1.a-spacing-small",
+  "emailInput": "#ap_email",
+  "passwordInput": "#ap_password",
+  "continueButton": "#continue",
+  "signInButton": "#signInSubmit"
+}

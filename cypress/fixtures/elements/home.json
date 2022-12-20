@@ -1,0 +1,11 @@
+{
+  "signInButton": "[href*='signin']",
+  "accountInfo": "span[id*='accountList']",
+  "yourAccountButton": "[href*='youraccount_btn']",
+  "accountButton": "[href*='AccountFlyout_ya']",
+  "createListButton": "a[href*='createList']",
+  "searchCategoryDropdown": "#searchDropdownBox",
+  "searchCategoryDropdownSelected": "#nav-search-label-id",
+  "searchBox": "#twotabsearchtextbox",
+  "searchButton": "#nav-search-submit-button"
+}

@@ -1,0 +1,14 @@
+{
+  "headerBanner": "[class*='banner-header']",
+  "createListButton": "[aria-labelledby^='createList']",
+  "listPopUpHeader": "#a-popover-header-1",
+  "deletePopUpHeader": "#a-popover-header-2",
+  "listNameInputPopUp": "#list-name",
+  "createListButtonList": "span[class*='button-inner'] input",
+  "listName": "#profile-list-name",
+  "moreButton": "#overflow-menu-popover-trigger",
+  "manageListButton": "#editYourList",
+  "listDeleteConfirmButton": "[name='submit.save']",
+  "deleteItemInList": "[name='submit.deleteItem']",
+  "emptyListSection": "div[class*='zero-items-image']"
+}

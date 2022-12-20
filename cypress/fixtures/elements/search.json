@@ -1,0 +1,8 @@
+{
+  "searchedKeyword": "span[class*='a-color-state']",
+  "secondPagePagination": "a[href*='page=2']",
+  "paginationSelectedPage": "[class*='pagination-selected']",
+  "searchProductsCards": "[class*='s-card-container']",
+  "searchProductsTitles": "[class*='s-card-container'] h2 span",
+  "productImages": "[class='s-image']"
+}
